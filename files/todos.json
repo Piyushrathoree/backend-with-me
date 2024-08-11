@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project",
+    "isCompleted": false,
+    "description": "Finish the Express.js application for managing a list of todos."
+  },
+  {
+    "id": 2,
+    "title": "Write report",
+    "description": "Write a detailed report on the project progress.",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "title": "meet with team",
+    "isCompleted": false,
+    "description": "Schedule a meeting with the team to discuss project updates.. "
+
+  }
+]
